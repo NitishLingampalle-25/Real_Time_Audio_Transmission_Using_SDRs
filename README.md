@@ -14,4 +14,6 @@ By leveraging **Software Defined Radio (SDR)** technology, the system offers fle
 - **Hardware**: [ADALM-Pluto SDR](https://wiki.analog.com/university/tools/pluto)
 - **Software**: MATLAB & Simulink
 
+Open to discussions and Feedback .
+Connect on LinkedIn :  " www.linkedin.com/in/nitishlingampalle25 "
 
